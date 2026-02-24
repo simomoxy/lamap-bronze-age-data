@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "expert_name": "Polte De Weirdt",
+    "period": "bronze_age",
+    "upload_timestamp": "2026-02-24T12:14:40.851354",
+    "total_comparisons": 50,
+    "total_masks": 30
+  },
+  "preferences": [
+    {
+      "comparison_number": 1,
+      "mask_a": 4,
+      "mask_b": 10,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 2,
+      "mask_a": 6,
+      "mask_b": 24,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 3,
+      "mask_a": 25,
+      "mask_b": 2,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 4,
+      "mask_a": 20,
+      "mask_b": 29,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 5,
+      "mask_a": 17,
+      "mask_b": 5,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 6,
+      "mask_a": 19,
+      "mask_b": 21,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 7,
+      "mask_a": 21,
+      "mask_b": 7,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 8,
+      "mask_a": 9,
+      "mask_b": 18,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 9,
+      "mask_a": 4,
+      "mask_b": 21,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 10,
+      "mask_a": 2,
+      "mask_b": 17,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 11,
+      "mask_a": 21,
+      "mask_b": 2,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 12,
+      "mask_a": 3,
+      "mask_b": 24,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 13,
+      "mask_a": 3,
+      "mask_b": 12,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 14,
+      "mask_a": 19,
+      "mask_b": 15,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 15,
+      "mask_a": 11,
+      "mask_b": 5,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 16,
+      "mask_a": 27,
+      "mask_b": 29,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 17,
+      "mask_a": 9,
+      "mask_b": 24,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 18,
+      "mask_a": 0,
+      "mask_b": 17,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 19,
+      "mask_a": 20,
+      "mask_b": 9,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 20,
+      "mask_a": 11,
+      "mask_b": 15,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 21,
+      "mask_a": 0,
+      "mask_b": 5,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 22,
+      "mask_a": 13,
+      "mask_b": 1,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 23,
+      "mask_a": 15,
+      "mask_b": 5,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 24,
+      "mask_a": 9,
+      "mask_b": 10,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 25,
+      "mask_a": 9,
+      "mask_b": 0,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 26,
+      "mask_a": 1,
+      "mask_b": 5,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 27,
+      "mask_a": 1,
+      "mask_b": 8,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 28,
+      "mask_a": 4,
+      "mask_b": 14,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 29,
+      "mask_a": 5,
+      "mask_b": 4,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 30,
+      "mask_a": 15,
+      "mask_b": 1,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 31,
+      "mask_a": 0,
+      "mask_b": 5,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 32,
+      "mask_a": 27,
+      "mask_b": 25,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 33,
+      "mask_a": 19,
+      "mask_b": 0,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 34,
+      "mask_a": 19,
+      "mask_b": 15,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 35,
+      "mask_a": 15,
+      "mask_b": 27,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 36,
+      "mask_a": 19,
+      "mask_b": 8,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 37,
+      "mask_a": 19,
+      "mask_b": 24,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 38,
+      "mask_a": 27,
+      "mask_b": 22,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 39,
+      "mask_a": 15,
+      "mask_b": 0,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 40,
+      "mask_a": 29,
+      "mask_b": 6,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 41,
+      "mask_a": 0,
+      "mask_b": 5,
+      "preference": 2,
+      "preference_label": "Tie"
+    },
+    {
+      "comparison_number": 42,
+      "mask_a": 19,
+      "mask_b": 8,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 43,
+      "mask_a": 15,
+      "mask_b": 0,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 44,
+      "mask_a": 15,
+      "mask_b": 19,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 45,
+      "mask_a": 0,
+      "mask_b": 9,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 46,
+      "mask_a": 11,
+      "mask_b": 0,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 47,
+      "mask_a": 19,
+      "mask_b": 24,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 48,
+      "mask_a": 19,
+      "mask_b": 0,
+      "preference": 1,
+      "preference_label": "Right"
+    },
+    {
+      "comparison_number": 49,
+      "mask_a": 0,
+      "mask_b": 8,
+      "preference": 0,
+      "preference_label": "Left"
+    },
+    {
+      "comparison_number": 50,
+      "mask_a": 6,
+      "mask_b": 29,
+      "preference": 2,
+      "preference_label": "Tie"
+    }
+  ]
+}
